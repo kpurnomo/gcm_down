@@ -1,4 +1,4 @@
-package com.example.agneev.gcm_test;
+package com.example.agneev.gcm_test ;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
     EditText etRegId;
     GoogleCloudMessaging gcm;
     String regid;
-    String PROJECT_NUMBER = "813916479990";
+    String PROJECT_NUMBER = "600432524191";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
